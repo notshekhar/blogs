@@ -1,5 +1,4 @@
 # Server-Side JavaScript with Nodejs
-Go to the profile of notshekhar
 
 Node.js is a JavaScript framework for writing server-side applications. In its simplest form, it follows you to trigger small JavaScript programs from the command line without any browser involved.
 
